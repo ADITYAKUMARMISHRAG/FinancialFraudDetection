@@ -59,6 +59,7 @@ This project addresses the problem by building a **real-time ML-based fraud dete
 - Real-time inference
 
 ---
+<img width="942" height="911" alt="image" src="https://github.com/user-attachments/assets/0a239f27-ff07-4ec1-a599-1f18f8dfdac4" />
 
 ## 🧠 ML Workflow
 
@@ -92,6 +93,9 @@ The model is evaluated using classification metrics to ensure strong fraud detec
 The trained model is deployed using **Flask**, exposing an API endpoint for real-time fraud scoring.
 
 ---
+
+<img width="952" height="847" alt="image" src="https://github.com/user-attachments/assets/55b0cc75-3ec5-47a6-ad50-2d278401d574" />
+
 
 ## 📈 Model Performance
 
@@ -127,3 +131,4 @@ Fraud / Not Fraud Prediction
         │
         ▼
 REST API Response
+
