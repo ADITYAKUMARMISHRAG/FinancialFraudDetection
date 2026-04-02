@@ -1,7 +1,11 @@
 # FinancialFraudDetection
+How to run:
+# Step 1: Install requirements
+pip install -r requirements.txt
+# Step 2: Start Backend
 uvicorn app:app --reload
+# Step 3: Start Frontend
 streamlit run dashboard.py
-
 
 # 💳 Real-Time Fraud Detection System (FinTech)
 
